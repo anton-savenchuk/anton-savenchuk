@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @anton-savenchuk
-- 👀 I’m interested in IT, HiTech, Data Science, Space, personality growth
-- 🌱 I’m currently learning Python
+- 👋 Hi, I'm @anton-savenchuk
+- 👀 I'm interested in IT, HiTech, Data Science, Space, personality growth
+- 🌱 I'm currently learning Python
+- 👨🏻‍💻 Skills: Python, Linux, Bash, Jira, GitHub, Visual Studio Code
 - 📫 Reach me to email Anton.Savenchuk@gmail.com
 
 <!---
