@@ -1,18 +1,9 @@
-# Hi, I'm Anton 👋
+# Hello, world, I'm Anton 👋
 > ⚡️ I'm open to new work opportunities.
 
 - 👀 I'm interested in IT, HiTech, Data Science, Space, personality growth
 - 🌱 I’m currently learning **Python**
-- 👨🏻‍💻 **Skills**: Python, SOLID Design Principles / OOP, Linux, Bash, Git, PostgreSQL, Docker, Django, Postman, Jira, Trello, HTML, CSS, Visual Studio Code (not a genius but I can program)
-```python
-success: bool = False
-while not success:
-    self.enhance()
-    self.challenge.solve()
-    if not self.challenge.completed():
-        continue
-    success: bool = True
-```
+- 👨🏻‍💻 **Skills**: `Python`, `SOLID Design Principles / OOP`, `Django`, `Linux`, `Bash`, `Git`, `Docker`, `PostgreSQL`, `Postman`, `Jira`, `Trello`, `HTML`, `CSS` (not a genius but I can program)
 - 📫 Reach me to:
   - email **[Anton.Savenchuk@gmail.com](mailto:Anton.Savenchuk@gmail.com)**
   - telegram **[@anton_savenchuk](https://t.me/anton_savenchuk)**
