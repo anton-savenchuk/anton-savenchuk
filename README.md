@@ -10,11 +10,11 @@
 
 ## 👨🏻‍💻 Current Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,docker,postgres,sqlite,nginx,linux,bash,git,github,lua,vscode,neovim,md,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,docker,postgres,sqlite,redis,nginx,linux,bash,git,github,lua,vscode,neovim,md,bootstrap,html,css&theme=dark&perline=10)](https://skillicons.dev)
 
 ## 📫 Reach me to
 
-[![gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anton.Savenchuk@gmail.com) [![telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anton_savenchuk) [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-savenchuk-175415235/)
+[![gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:Anton.Savenchuk@gmail.com) [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/anton-savenchuk/) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/anton_savenchuk) [![discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/692549310230954005)
 
 <!---
 anton-savenchuk/anton-savenchuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
