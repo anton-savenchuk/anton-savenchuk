@@ -10,11 +10,11 @@
 
 ## 👨🏻‍💻 Current Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,docker,postgres,sqlite,redis,nginx,linux,bash,git,github,postman,lua,vscode,neovim,md,bootstrap,html,css&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,docker,postgres,sqlite,redis,rabbitmq,nginx,linux,bash,git,github,gitlab,postman,lua,vscode,neovim,md,bootstrap,html,css&theme=dark&perline=11)](https://skillicons.dev)
 
 ## 📫 Reach me to
 
-[![gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:Anton.Savenchuk@gmail.com) [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/anton-savenchuk/) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/anton_savenchuk) [![discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/692549310230954005)
+[![gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:savenchuk.dev@gmail.com) [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/anton-savenchuk/) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/savenchuk_dev) [![discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/1292729378073215006)
 
 <!---
 anton-savenchuk/anton-savenchuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
