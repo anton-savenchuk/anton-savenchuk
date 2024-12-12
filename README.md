@@ -10,7 +10,7 @@
 
 ## 👨🏻‍💻 Current Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,docker,postgres,sqlite,redis,rabbitmq,nginx,linux,bash,git,github,gitlab,postman,lua,vscode,neovim,md,bootstrap,html,css&theme=dark&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,django,postgres,sqlite,redis,docker,rabbitmq,nginx,linux,bash,git,github,gitlab,postman,lua,vscode,neovim,md,bootstrap,html,css&theme=dark&perline=11)](https://skillicons.dev)
 
 ## 📫 Reach me to
 
