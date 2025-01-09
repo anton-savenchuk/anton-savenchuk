@@ -1,7 +1,7 @@
 # Hello, world, I'm Anton 👋
-
+<!---
 > ⚡️ I'm open to new work and collaboration opportunities
-
+--->
 - 👀 I'm a python developer, interested in IT, Hi Tech, Data Science, Space, personality growth.
 - 🌱 I’m currently learning tools for development using **Python** `(async Python has piqued my interest)` and also interested in other technologies.
 - 👨🏻‍💻 I write clean and understandable code using new style and typing guides.
